@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\obj\Debug\net5.0\IAM_Log_Monitoring_Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\obj\Debug\net5.0\IAM_Log_Monitoring_Framework.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\obj\Debug\net5.0\IAM_Log_Monitoring_Framework.AssemblyInfo.cs
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\obj\Debug\net5.0\IAM_Log_Monitoring_Framework.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\bin\Debug\net5.0\selenium-manager\linux\selenium-manager
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\bin\Debug\net5.0\selenium-manager\macos\selenium-manager
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\bin\Debug\net5.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\bin\Debug\net5.0\IAM_Log_Monitoring_Framework.deps.json
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\bin\Debug\net5.0\IAM_Log_Monitoring_Framework.dll
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\bin\Debug\net5.0\ref\IAM_Log_Monitoring_Framework.dll
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\bin\Debug\net5.0\IAM_Log_Monitoring_Framework.pdb
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\obj\Debug\net5.0\IAM_Log_Monitoring_Framework.dll
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\obj\Debug\net5.0\ref\IAM_Log_Monitoring_Framework.dll
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\obj\Debug\net5.0\IAM_Log_Monitoring_Framework.pdb
+C:\Users\user\source\repos\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework\bin\Debug\net5.0\Config\GeneralConfig.json

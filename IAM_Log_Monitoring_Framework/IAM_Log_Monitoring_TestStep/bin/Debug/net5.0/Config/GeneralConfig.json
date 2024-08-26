@@ -1,0 +1,13 @@
+{
+  "Environment": "dev",
+  "Browser": "chrome",
+  "dev": {
+    "URL": "https://www.google.com",
+  },
+  "beta": {
+   
+  },
+  "production": {
+    
+  }
+}

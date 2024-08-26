@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IAM_Log_Monitoring_Framework\IAM_Log_Monitoring_Framework.csproj" />
+  </ItemGroup>
+
+</Project>
